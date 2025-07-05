@@ -1,3 +1,24 @@
-#Quantum-Computing and Machine Learning Projects
-This repo showcase some of the projects i have built in my high school years, i have built this out of interest and learning new skills which changes the percpective with which i see the word
-This repo has quantum-computing, machine-learning and combined projects which you can use on your pc and have fun with it.
+# 🔬 Quantum State Similarity Tool
+
+This project is a **Streamlit-based web app** that visually and numerically compares two quantum states using various quantum information metrics. It's ideal for high school or undergraduate students exploring quantum computing.
+
+---
+
+## 📦 Project Overview
+
+This tool compares two quantum states using:
+
+- **Fidelity**
+- **Trace Distance**
+- **Quantum Jensen-Shannon Divergence (QJSD)**
+- **Purity**
+- **Bloch Sphere Visualization**
+
+---
+
+## 🧰 Tools & Dependencies
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
