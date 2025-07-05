@@ -1,5 +1,5 @@
-qiskit==2.1.
+qiskit==2.1.0
 qiskit_aer
 streamlit
 numpy
-python3
+matplotlib
