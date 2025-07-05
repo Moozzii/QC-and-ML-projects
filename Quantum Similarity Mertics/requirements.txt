@@ -1,0 +1,5 @@
+qiskit==2.1.
+qiskit_aer
+streamlit
+numpy
+python3
